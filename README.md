@@ -10,7 +10,7 @@
 
 毕业合照存放于：  /graduation    文件夹中
 
-
+####   <a href="https://github.com/NajunNiu/Orthodontic-Case-Sharing/blob/master/GRA.md/">毕业合集</a> 
 
 ## 案例
 
