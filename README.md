@@ -53,9 +53,4 @@
 <img src="case/015.jpg" width="250px"/> 
 </p>
 
----------------
 
-<p align="center">
-<img src="case/016.jpg" width="250px"/> 
-<img src="case/017.jpg" width="250px"/> 
-</p>
